@@ -1,0 +1,56 @@
+
+Training Time: 6.4259 second per epoch
+
+==============================
+ PARAMETRE TARAMA SONUÇLARI 
+==============================
+Parametreler: a0.1_g0.25 | En İyi Val Dice: 0.7182
+Parametreler: a0.1_g1.25 | En İyi Val Dice: 0.7384
+Parametreler: a0.1_g2.25 | En İyi Val Dice: 0.7357
+Parametreler: a0.1_g3.25 | En İyi Val Dice: 0.7065
+Parametreler: a0.1_g4.25 | En İyi Val Dice: 0.6574
+Parametreler: a0.1_g5.25 | En İyi Val Dice: 0.6801
+Parametreler: a0.1_g6.25 | En İyi Val Dice: 0.6510
+Parametreler: a0.25_g0.25 | En İyi Val Dice: 0.8180
+Parametreler: a0.25_g1.25 | En İyi Val Dice: 0.7259
+Parametreler: a0.25_g2.25 | En İyi Val Dice: 0.8005
+Parametreler: a0.25_g3.25 | En İyi Val Dice: 0.7875
+Parametreler: a0.25_g4.25 | En İyi Val Dice: 0.7298
+Parametreler: a0.25_g5.25 | En İyi Val Dice: 0.7504
+Parametreler: a0.25_g6.25 | En İyi Val Dice: 0.6988
+Parametreler: a0.3_g0.25 | En İyi Val Dice: 0.8146
+Parametreler: a0.3_g1.25 | En İyi Val Dice: 0.8134
+Parametreler: a0.3_g2.25 | En İyi Val Dice: 0.8097
+Parametreler: a0.3_g3.25 | En İyi Val Dice: 0.7695
+Parametreler: a0.3_g4.25 | En İyi Val Dice: 0.7779
+Parametreler: a0.3_g5.25 | En İyi Val Dice: 0.7735
+Parametreler: a0.3_g6.25 | En İyi Val Dice: 0.6776
+Parametreler: a0.45_g0.25 | En İyi Val Dice: 0.8205
+Parametreler: a0.45_g1.25 | En İyi Val Dice: 0.8295
+Parametreler: a0.45_g2.25 | En İyi Val Dice: 0.8156
+Parametreler: a0.45_g3.25 | En İyi Val Dice: 0.8029
+Parametreler: a0.45_g4.25 | En İyi Val Dice: 0.7959
+Parametreler: a0.45_g5.25 | En İyi Val Dice: 0.7567
+Parametreler: a0.45_g6.25 | En İyi Val Dice: 0.7303
+Parametreler: a0.5_g0.25 | En İyi Val Dice: 0.8227
+Parametreler: a0.5_g1.25 | En İyi Val Dice: 0.8234
+Parametreler: a0.5_g2.25 | En İyi Val Dice: 0.8206
+Parametreler: a0.5_g3.25 | En İyi Val Dice: 0.8107
+Parametreler: a0.5_g4.25 | En İyi Val Dice: 0.7938
+Parametreler: a0.5_g5.25 | En İyi Val Dice: 0.7611
+Parametreler: a0.5_g6.25 | En İyi Val Dice: 0.7439
+Parametreler: a0.6_g0.25 | En İyi Val Dice: 0.8290
+Parametreler: a0.6_g1.25 | En İyi Val Dice: 0.8361
+Parametreler: a0.6_g2.25 | En İyi Val Dice: 0.8104
+Parametreler: a0.6_g3.25 | En İyi Val Dice: 0.8159
+Parametreler: a0.6_g4.25 | En İyi Val Dice: 0.7821
+Parametreler: a0.6_g5.25 | En İyi Val Dice: 0.7576
+Parametreler: a0.6_g6.25 | En İyi Val Dice: 0.7652
+Parametreler: a0.65_g0.25 | En İyi Val Dice: 0.8352
+Parametreler: a0.65_g1.25 | En İyi Val Dice: 0.8242
+Parametreler: a0.65_g2.25 | En İyi Val Dice: 0.8165
+Parametreler: a0.65_g3.25 | En İyi Val Dice: 0.8109
+Parametreler: a0.65_g4.25 | En İyi Val Dice: 0.7778
+Parametreler: a0.65_g5.25 | En İyi Val Dice: 0.7507
+Parametreler: a0.65_g6.25 | En İyi Val Dice: 0.7233
+==============================
